@@ -1,1 +1,1 @@
-# Sports-meeting-management-system_C-language-programming-job_STU
+# Sports-meeting-system_C-language-programming-job_STU
